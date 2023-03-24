@@ -16,6 +16,7 @@
             Console.WriteLine(hdd.DeviceInfo());
             Console.WriteLine(flash.DeviceInfo());
             Console.WriteLine(dvd.DeviceInfo());
+            Console.WriteLine("Hello git");
         }
     }
 }
